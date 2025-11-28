@@ -2,7 +2,7 @@
 ``referencing``
 ===============
 
-|PyPI| |Pythons| |CI| |ReadTheDocs| |pre-commit|
+|PyPI| |Pythons| |ReadTheDocs| 
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/referencing.svg
   :alt: PyPI version
@@ -12,18 +12,9 @@
   :alt: Supported Python versions
   :target: https://pypi.org/project/referencing/
 
-.. |CI| image:: https://github.com/mistery220/referencing/workflows/CI/badge.svg
-  :alt: Build status
-  :target: https://github.com/mistery220/referencing/actions?query=workflow%3ACI
-
 .. |ReadTheDocs| image:: https://readthedocs.org/projects/referencing/badge/?version=stable&style=flat
    :alt: ReadTheDocs status
    :target: https://referencing.readthedocs.io/en/stable/
-
-.. |pre-commit| image:: https://results.pre-commit.ci/badge/github/mistery220/referencing/main.svg
-  :alt: pre-commit.ci status
-  :target: https://results.pre-commit.ci/latest/github/mistery220/referencing/main
-
 
 An implementation-agnostic implementation of JSON reference resolution.
 
